@@ -1,0 +1,18 @@
+{
+    "validUserName":"rahul.sinha231-ql3l@force.com",
+    "validPassword":"Summer$332211",
+
+    "inValidUserName_1":"rahul.sinha200-ql3l@force.com",
+    "InvalidPassword_1":"Password11",
+
+    "inValidUserName_2":"rahul.sinha231-ql3l@force.com",
+    "InvalidPassword_2":"Password1221",
+
+    "inValidUserName_3":"rahul.sinha231-ql3l@ff.com",
+    "InvalidPassword_3":"Password"
+
+    
+
+
+    
+}

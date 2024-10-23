@@ -1,0 +1,8 @@
+{
+    "userNameTextBox" :"username",
+    "passwordTextBox":"password",
+    "loginButton":"Login",
+
+    "homePageLinkTitle":"spotlightTitleText"
+
+}
